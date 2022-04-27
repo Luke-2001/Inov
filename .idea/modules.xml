@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Inov.iml" filepath="$PROJECT_DIR$/Inov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inov.BackEnd.iml" filepath="$PROJECT_DIR$/Inov.BackEnd.iml" />
     </modules>
   </component>
 </project>
